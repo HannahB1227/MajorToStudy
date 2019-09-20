@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Major To Study</string>
+
+    <string-array name="major_array">
+        <item>Computer Science</item>
+        <item>Biology</item>
+        <item>Psychology</item>
+        <item>Economics</item>
+        <item>Journalism</item>
+    </string-array>
+</resources>
